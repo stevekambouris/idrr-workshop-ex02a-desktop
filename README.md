@@ -18,5 +18,5 @@ This Docker image is based on [rocker/tidyverse:3.5.0](https://hub.docker.com/la
 6. Go to your web browser, and enter `http://localhost:8787/` into the navigation bar.
 7. You will be presented with a login screen, enter Username `rstudio` (this does not change) and your password (changed from literally `yourpassword` in the command above).
 8. After logging in, you should see an instance of RStudio in your web browser window.
-9. There will be two files available, `data_penguins.csv` and `summarise_penguins.R`.
-10. Open `summarise_penguins.R` in RStudio and run the code from the top, observing the output to the console as you progress.
+9. There will be two files available, `data_penguins.csv` and `bootstrap_ci.R`.
+10. Open `bootstrap_ci.R` in RStudio and run the code from the top, observing the output to the console as you progress.
